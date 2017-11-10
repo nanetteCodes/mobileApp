@@ -1,6 +1,10 @@
 $(document).ready (function() {
   //initializes wow at load
   new WOW().init();
+
+  $(".burger-nav").on("click", function(){
+    $(".container nav ul").toggleClass("open");      
+  });
   //when we reach the waypoint of this classes location,
   //add a class of animated and slideInUp
   $('.js-wp-2').waypoint(function(direction) {
