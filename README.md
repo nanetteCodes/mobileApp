@@ -1,4 +1,4 @@
-# PSD-to-HTML5-Animation
+# mobileApp
 ------------------
 
 This site can be viewed live on  [Github](http://nanettejulius.com/mobileApp/).
